@@ -1,7 +1,0 @@
-C:\Users\Usuario\Desktop\Industrial Placement Coding Assesment\Industrial Placement Coding Assesment\bin\Release\Industrial Placement Coding Assesment.exe.config
-C:\Users\Usuario\Desktop\Industrial Placement Coding Assesment\Industrial Placement Coding Assesment\bin\Release\Industrial Placement Coding Assesment.exe
-C:\Users\Usuario\Desktop\Industrial Placement Coding Assesment\Industrial Placement Coding Assesment\bin\Release\Industrial Placement Coding Assesment.pdb
-C:\Users\Usuario\Desktop\Industrial Placement Coding Assesment\Industrial Placement Coding Assesment\obj\Release\Industrial Placement Coding Assesment.csproj.AssemblyReference.cache
-C:\Users\Usuario\Desktop\Industrial Placement Coding Assesment\Industrial Placement Coding Assesment\obj\Release\Industrial Placement Coding Assesment.csproj.CoreCompileInputs.cache
-C:\Users\Usuario\Desktop\Industrial Placement Coding Assesment\Industrial Placement Coding Assesment\obj\Release\Industrial Placement Coding Assesment.exe
-C:\Users\Usuario\Desktop\Industrial Placement Coding Assesment\Industrial Placement Coding Assesment\obj\Release\Industrial Placement Coding Assesment.pdb
