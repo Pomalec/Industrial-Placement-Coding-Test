@@ -1,0 +1,7 @@
+C:\Users\Poma\3D Objects\Industry Placement Coding Test\Industry Placement Coding Test\bin\Debug\Industry Placement Coding Test.exe.config
+C:\Users\Poma\3D Objects\Industry Placement Coding Test\Industry Placement Coding Test\bin\Debug\Industry Placement Coding Test.exe
+C:\Users\Poma\3D Objects\Industry Placement Coding Test\Industry Placement Coding Test\bin\Debug\Industry Placement Coding Test.pdb
+C:\Users\Poma\3D Objects\Industry Placement Coding Test\Industry Placement Coding Test\obj\Debug\Industry Placement Coding Test.csproj.AssemblyReference.cache
+C:\Users\Poma\3D Objects\Industry Placement Coding Test\Industry Placement Coding Test\obj\Debug\Industry Placement Coding Test.csproj.CoreCompileInputs.cache
+C:\Users\Poma\3D Objects\Industry Placement Coding Test\Industry Placement Coding Test\obj\Debug\Industry Placement Coding Test.exe
+C:\Users\Poma\3D Objects\Industry Placement Coding Test\Industry Placement Coding Test\obj\Debug\Industry Placement Coding Test.pdb

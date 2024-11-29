@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Industrial_Placement_Coding_Assesment
+namespace Industry_Placement_Coding_Test
 {
-     internal class Beverage
+    internal class Beverage
     {
         protected float cost;
         protected string description;
@@ -19,7 +19,6 @@ namespace Industrial_Placement_Coding_Assesment
         {
             return this.description;
         }
-    
-    }
 
+    }
 }

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C335C48E-132D-48FB-ABAF-86ACB897128D}</ProjectGuid>
+    <ProjectGuid>{34CF5135-A969-40BE-B48A-414D9614E6E4}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Industrial_Placement_Coding_Assesment</RootNamespace>
-    <AssemblyName>Industrial Placement Coding Assesment</AssemblyName>
+    <RootNamespace>Industry_Placement_Coding_Test</RootNamespace>
+    <AssemblyName>Industry Placement Coding Test</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -47,7 +47,6 @@
     <Compile Include="Cakes.cs" />
     <Compile Include="DecafCoffee.cs" />
     <Compile Include="Extra.cs" />
-    <Compile Include="MenuItem.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RegularCoffee.cs" />
